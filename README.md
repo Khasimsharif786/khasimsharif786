@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./dot_net_image.svg" alt="" width="100%">
+<img src="./dot_net_image.png" alt="" width="100%">
 
 <p>
 <a href="mailto:khasimsharif162@gmail.com">
